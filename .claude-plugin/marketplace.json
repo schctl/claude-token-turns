@@ -1,0 +1,16 @@
+{
+  "name": "claude-token-turns",
+  "owner": {
+    "name": "schctl"
+  },
+  "plugins": [
+    {
+      "name": "token-turns",
+      "source": "./",
+      "description": "Context, 5h and weekly usage meters with the token delta of every turn"
+    }
+  ],
+  "metadata": {
+    "description": "token-turns: per-turn token deltas and usage meters for Claude Code"
+  }
+}

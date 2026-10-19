@@ -1,0 +1,10 @@
+{
+  "name": "token-turns",
+  "version": "0.1.0",
+  "description": "Context, 5h and weekly usage meters with the token delta of every turn",
+  "author": {
+    "name": "schctl"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
